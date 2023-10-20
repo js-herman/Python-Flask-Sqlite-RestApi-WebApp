@@ -5,7 +5,7 @@ Software Engineering Course in ITU for using **Agile** methodologies in a **Soft
 it built on **Python**,**Flask Framework** and **Sqlite** database. Also application has the capability of serving models as an **API** to companies which are signed up.
 
 ## Required Libraries For Venv 
-
+1as
 1. You can download libraries by using 
    - pip install libraryName
    
